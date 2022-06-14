@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: 'HankenGroteskRegular';
-  src: url($HKGroteskRegular);
+  //src: url($HKGroteskRegular);
 }
 
 @font-face {
   font-family: 'HKGroteskLight';
-  src: url($HKGroteskLight);
+ // src: url($HKGroteskLight);
 }
 body {
   font-family: "HankenGroteskRegular", sans-serif;
